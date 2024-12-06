@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hello, and welcome to my GitHub space. My name is Rachel Marvin Wan and I am currently a final year Computer Science student from University Malaysia Sarawak(UNIMAS)
+
 <!--
 **RachelMarvinWan/RachelMarvinWan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
